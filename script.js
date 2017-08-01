@@ -1,3 +1,3 @@
 var monkeys
 
-monkeys = " funny looking"; 
+monkeys = 'funny looking'; 
