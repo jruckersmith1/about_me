@@ -1,19 +1,17 @@
 body {
-    background-color: lightgrey;
+    background-color: black;
 }
 
-h1, h2, p {
+p {
     color: purple;
     font-size: 2rem;
 }
 
 #greeting {
     font-size: 5rem;
+    color: green;
 }
 
-/* article {
-    line-height: 30px;
-} */
 
 article.ipsum {
     line-height: 30px;
